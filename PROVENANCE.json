@@ -1,0 +1,17 @@
+{
+  "project": "cifar10-cnn",
+  "packaging_note": "Original source downloaded from the authenticated Kaggle account; code not rewritten. Documentation added for portfolio organization. Downloaded Kaggle notebooks generally omit executed outputs. Last run timestamps are source metadata, not authorship or publication dates.",
+  "sources": [
+    {
+      "file": "notebooks/notebooke3a86b3c6c.ipynb",
+      "source_url": "https://www.kaggle.com/code/thorballer/notebooke3a86b3c6c",
+      "source_title": "notebooke3a86b3c6c",
+      "source_id": 69517871,
+      "last_run_time": "2024-11-02 03:08:30.567000",
+      "original_sha256": "19ce72fb75650dcfd71fd65e019850efde0d28c5249284a8cfc7009363603a2e",
+      "published_sha256": "19ce72fb75650dcfd71fd65e019850efde0d28c5249284a8cfc7009363603a2e",
+      "redactions": [],
+      "executed_outputs_present": false
+    }
+  ]
+}
